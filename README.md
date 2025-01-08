@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon VBScript error related to type mismatch. The `bug.vbs` file contains the erroneous code, which unexpectedly raises a type mismatch error when an empty string is passed as a parameter. The solution (`bugSolution.vbs`) shows how to properly handle empty string parameters to prevent this error.
